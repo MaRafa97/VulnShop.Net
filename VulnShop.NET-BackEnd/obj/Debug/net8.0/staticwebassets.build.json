@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QqYm04aC5UNYYOC7bxYFkzYQmZRku5jReRMRqq2HhYc=",
+  "Source": "VulnShop.Net",
+  "BasePath": "_content/VulnShop.Net",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
